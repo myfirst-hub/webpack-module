@@ -1,0 +1,23 @@
+{
+  "name": "webpack-tapable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myfirst-hub/webpack-tapable.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myfirst-hub/webpack-tapable/issues"
+  },
+  "homepage": "https://github.com/myfirst-hub/webpack-tapable#readme",
+  "dependencies": {
+    "tapable": "^1.1.3"
+  }
+}
